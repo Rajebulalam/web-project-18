@@ -2,7 +2,7 @@
     background-color: #FFF9F4;
 }
 .logo-size{
-    width: 291px;
+    max-width: 200px;
     height: 40px;
 }
 .text-color{
